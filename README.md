@@ -1,16 +1,13 @@
-## Hi there 👋
+##  Hello! 👋
+My name is Youssef Adam, and I am a software engineer with a love for efficiency!
 
-<!--
-**atxm/atxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My foci are the enhancement of 🎥 computer graphics/vision technologies and 🎮 game/simulation development apparatuses.
 
-Here are some ideas to get you started:
+You can always reach me via email: <a href="mailto:youssef.aadam02@gmail.com">youssef.aadam02@gmail.com</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/atxm">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=atxm&show_icons=true&theme=transparent&hide_title=true&show=\`reviews,discussions_answered,prs_merged\`&hide_border=true&text_color=ffffff&icon_color=ff8c00&ring_color=ff8c00" />
+</a>
+<a href="https://github.com/atxm">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atxm&layout=donut&theme=transparent&hide_title=true&hide_border=true&text_color=ffffff" />
+</a>
